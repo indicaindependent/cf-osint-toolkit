@@ -14,7 +14,7 @@
 
 ## What Is This
 
-A battle-tested collection of Cloudflare Workers patterns extracted from real OSINT tools in production. Built by [VPDLNY](https://osintnet.uk) running 65+ workers across 38 custom domains.
+A battle-tested collection of Cloudflare Workers patterns extracted from real OSINT tools in production. Built by [VPDLNY](https://osintnet.uk) running 145+ workers, each on its own dedicated custom domain.
 
 Use these as starters, templates, or reference implementations for your own intelligence tools.
 
@@ -87,5 +87,5 @@ wrangler deploy
 ---
 
 <div align="center">
-<sub>Extracted from 65+ production workers | <a href="https://osintnet.uk">Indica Independent</a></sub>
+<sub>Extracted from 145+ production workers | <a href="https://osintnet.uk">Indica Independent</a></sub>
 </div>
