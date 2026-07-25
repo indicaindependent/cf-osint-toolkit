@@ -89,3 +89,15 @@ wrangler deploy
 <div align="center">
 <sub>Extracted from 145+ production workers | <a href="https://osintnet.uk">Indica Independent</a></sub>
 </div>
+
+
+---
+
+## ⚡ Support the Mission
+
+This is free, ad-free, independent infrastructure — no VC, no gov funding, no strings. If it served you, a tip keeps it alive and funds the next tool.
+
+[![Donate via SkyGive](https://img.shields.io/badge/💜_Donate_via_SkyGive-8A5CF6?style=for-the-badge&logoColor=white)](https://donate.skygive.app/)
+[![Lightning](https://img.shields.io/badge/⚡_tips@skygive.app-F7931A?style=for-the-badge&logo=lightning&logoColor=white)](https://donate.skygive.app/)
+
+<sub>🧡 Sovereign Lightning + on-chain via SkyGive. Your sats fund uptime, not ads.</sub>
