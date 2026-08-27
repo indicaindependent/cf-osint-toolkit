@@ -73,8 +73,6 @@ wrangler deploy
 
 ## Related Tools (Live in Production)
 
-- 🗺️ [FaceHeatMap](https://faceheatmap.app) — FR surveillance tracker
-- ⚡ [StraitTracker](https://tracker.warheatmap.app) — Hormuz intel
 - 🌍 [WarHeatMap](https://warheatmap.app) — Global conflict map
 - 🔭 [EdgeIntel](https://intel.osintnet.uk) — OSINT news aggregator
 
